@@ -1,0 +1,16 @@
+{
+  "name": "wordpress-edit-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "opn": "^4.0.2",
+    "prompt": "^1.0.0",
+    "wpapi": "git+https://github.com/WP-API/node-wpapi.git"
+  }
+}
