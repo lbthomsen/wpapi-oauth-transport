@@ -1,6 +1,6 @@
 {
-  "name": "wpapi-oauth-example-transport",
-  "version": "1.0.0",
+  "name": "wpapi-oauth-transport",
+  "version": "1.0.1",
   "description": "",
   "main": "oauth-http-transport.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "dependencies": {
     "opn": "^4.0.2",
     "prompt": "^1.0.0",
-    "wpapi": "git+https://github.com/WP-API/node-wpapi.git"
+    "wpapi": "github:WP-API/node-wpapi.git"
   }
 }
