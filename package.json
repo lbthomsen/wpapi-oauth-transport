@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.4",
+    "lodash.reduce": "^4.6.0",
+    "oauth": "^0.9.15",
     "opn": "^4.0.2",
     "prompt": "^1.0.0",
-    "lodash": "^4.17.4", 
     "wpapi": "github:WP-API/node-wpapi.git"
   }
 }
